@@ -9,8 +9,8 @@ This repository reproduces the results in the following publications:
 ## Architecture
 The network architecture includes basic physics (AVO) on the input data to learn noisy gradients and learn the residual.
 
-![AVO-based deep neural network](AVO-Net.png)
+![AVO-based deep neural network](fig/AVO-Net.png)
 
 ## Results
 
-![AVO-based deep neural network results](NN_results.png)
+![AVO-based deep neural network results](fig/NN_results.png)
