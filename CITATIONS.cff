@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying papers as below."
+authors:
+- family-names: "Dramsch"
+  given-names: "Jesper Sören"
+  orcid: "0000-0001-8273-905X"
+title: "Deep Neural Networks for Map-Based 4D Seismic Pressure-Saturation Inversion"
+version: 1.0
+doi: 10.6084/m9.figshare.11396184.v1
+date-released: 2019-12-18
+url: "https://github.com/JesperDramsch/4D-seismic-neural-inversion"
+preferred-citation:
+  type: proceedings
+  authors:
+  - family-names: "Dramsch"
+    given-names: "Jesper Sören"
+    orcid: "0000-0001-8273-905X"
+  - family-names: "Corte"
+    given-names: "Gustavo"
+  - family-names: "Amini"
+    given-names: "Hamed"
+    orcid: "0000-0001-9588-6374"
+  - family-names: "Lüthje"
+    given-names: "Mikael"
+    orcid: "0000-0003-2715-1653"
+  - family-names: "MacBeth"
+    given-names: "Colin"
+    orcid: "0000-0001-8593-3456"
+  doi: "10.3997/2214-4609.201900028"
+  journal: "Second EAGE Workshop Practical Reservoir Monitoring 2019"
+  month: 4
+  start: 1 # First page number
+  end: 5 # Last page number
+  title: "Deep Learning Application for 4D Pressure Saturation Inversion Compared to Bayesian Inversion on North Sea Data"
+  issue: 2
+  volume: 1
+  year: 2019
